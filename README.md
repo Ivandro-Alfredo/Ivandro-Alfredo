@@ -8,8 +8,8 @@ Hi there! I'm Ivandro, a software development enthusiast who enjoys both back-en
 
 <!--- 🔭 Currently working on [current project] - [link to the project if applicable].-->
 - 🌱 I'm currently learning Typescript with Node.js.
-<!--- 💬 Ask me about [areas of expertise or topics of interest].-->
-- 📫 How to reach me: https://linkedin.com/in/ivandro-alfredo.
+- 💬 Ask me about - JavaScript, TypeScript, Node.js, Html,Css,Java.
+- 📫 How to reach me - https://linkedin.com/in/ivandro-alfredo.
 <!--- 😄 Pronouns: [your pronouns, e.g., he/she/they].-->
 <!--- ⚡ Fun fact: [something interesting about you].-->
 
