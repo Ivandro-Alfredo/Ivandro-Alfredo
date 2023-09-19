@@ -40,8 +40,6 @@ Here are some of my featured projects:
 ## GitHub Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Ivandro-Alfredo&show_icons=true&theme=dark)
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Ivandro-Alfredo&show_icons=true&theme=dark)
-
 
 ## Currently Learning
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
